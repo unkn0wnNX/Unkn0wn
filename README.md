@@ -1,4 +1,4 @@
-# Unkn0wn_Switch_Pack
+# Unkn0wns CFW
 ⚙️ Nintendo Switch Modding Pack by Unkn0wn
 
 This repository contains perfect files and tools for a modded Nintendo Switch.
