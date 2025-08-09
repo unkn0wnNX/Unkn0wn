@@ -1,31 +1,27 @@
-# Unkn0wn_Switch
+# Unkn0wn_Switch_Pack
 ⚙️ Nintendo Switch Modding Pack by Unkn0wn
 
-This repository contains useful files and tools for a modded Nintendo Switch.
+This repository contains perfect files and tools for a modded Nintendo Switch.
 Created and tested by Unkn0wn.
+
+
+for safe usage of this pack take a look on the video for setting up emummc
 
 
 ---
 
 ✅ Firmware Compatibility
 
-Compatible with firmware versions: 19.0 to 20.1
+Compatible with firmware versions: 19.0 to 20.3
 
 Tested on: Switch V1 (SysMMC & EmuMMC)
 
-Stable version: 19.1
-
-⚠️ Known bugs with 20.1.5
-
-❌ DO NOT update to 20.2 or 20.3 – not supported and may cause issues
-
-
+✅Stable version: 19.1
+⚠️Can bug on Version 20.3
 
 ---
 
 📦 What's Included
-
-🔧 Core Tools
 
 Latest Atmosphère
 
@@ -44,7 +40,11 @@ Fizeau (with .ovl + .nro)
 
 Edizon
 
-Emuiibo
+quick_reboot
+
+fpslocker
+
+status-monitor
 
 Sys-CLK
 
@@ -59,7 +59,9 @@ HB App Store
 
 All-in-One Updater
 
-Edizon SE
+Avatool
+
+Edizon
 
 Daybreak
 
@@ -74,12 +76,6 @@ NRO Forwarder
 Simple Mod Downloader
 
 Simple Mod Manager
-
-VGEdit
-
-Amiigo
-
-Chiaki
 
 DBI (English version)
 
